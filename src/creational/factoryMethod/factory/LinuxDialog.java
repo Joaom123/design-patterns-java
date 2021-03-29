@@ -1,7 +1,7 @@
-package cretional.factoryMethod.factory;
+package creational.factoryMethod.factory;
 
-import cretional.factoryMethod.buttons.Button;
-import cretional.factoryMethod.buttons.LinuxButton;
+import creational.factoryMethod.buttons.Button;
+import creational.factoryMethod.buttons.LinuxButton;
 
 // Will produce linux button
 public class LinuxDialog extends Dialog {

@@ -1,7 +1,7 @@
-package cretional.factoryMethod.factory;
+package creational.factoryMethod.factory;
 
-import cretional.factoryMethod.buttons.Button;
-import cretional.factoryMethod.buttons.WindowsButton;
+import creational.factoryMethod.buttons.Button;
+import creational.factoryMethod.buttons.WindowsButton;
 
 // Will produce windows button
 public class WindowsDialog extends Dialog {

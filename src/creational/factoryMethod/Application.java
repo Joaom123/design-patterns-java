@@ -1,8 +1,8 @@
-package cretional.factoryMethod;
+package creational.factoryMethod;
 
-import cretional.factoryMethod.factory.Dialog;
-import cretional.factoryMethod.factory.LinuxDialog;
-import cretional.factoryMethod.factory.WindowsDialog;
+import creational.factoryMethod.factory.Dialog;
+import creational.factoryMethod.factory.LinuxDialog;
+import creational.factoryMethod.factory.WindowsDialog;
 
 // Usage example
 public class Application {

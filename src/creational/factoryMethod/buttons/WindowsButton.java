@@ -1,4 +1,4 @@
-package cretional.factoryMethod.buttons;
+package creational.factoryMethod.buttons;
 
 // Windows button implementation.
 public class WindowsButton implements Button {

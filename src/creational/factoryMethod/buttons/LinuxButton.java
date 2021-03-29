@@ -1,4 +1,4 @@
-package cretional.factoryMethod.buttons;
+package creational.factoryMethod.buttons;
 
 // Linux button implementation.
 public class LinuxButton implements Button {

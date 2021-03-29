@@ -1,4 +1,4 @@
-package cretional.factoryMethod.buttons;
+package creational.factoryMethod.buttons;
 
 // Common interface for all buttons
 public interface Button {

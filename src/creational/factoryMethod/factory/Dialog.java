@@ -1,6 +1,6 @@
-package cretional.factoryMethod.factory;
+package creational.factoryMethod.factory;
 
-import cretional.factoryMethod.buttons.Button;
+import creational.factoryMethod.buttons.Button;
 
 // The creator class. Base factory class. Should have core business logic.
 public abstract class Dialog {
