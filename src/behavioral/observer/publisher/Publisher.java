@@ -5,7 +5,7 @@ import behavioral.observer.subscriber.Subscriber;
 import java.util.ArrayList;
 
 public class Publisher {
-    private ArrayList<Subscriber> subscribers;
+    private final ArrayList<Subscriber> subscribers;
 
     public Publisher() {
         this.subscribers = new ArrayList<>();
