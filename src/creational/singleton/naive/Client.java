@@ -1,4 +1,4 @@
-package creational.singleton;
+package creational.singleton.naive;
 
 public class Client {
     public static void main(String[] args) {
